@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/star-fox-2)**.
+
 Traducción al **castellano de España** de *Star Fox 2*, para la ROM japonesa comercial de Super Nintendo incluida en Classic Mini y Switch Online. Se ha traducido desde el japonés del juego; los menús, avisos y créditos que ya estaban en inglés se han traducido desde ese original.
 
 Se distribuye un **parche**, no el juego. Necesitas tu propia copia original.
